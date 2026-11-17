@@ -2,10 +2,8 @@
   "kind": "receipt",
   "id": "receipt-B",
   "revision": "v1",
-  "phase": "一期",
-  "jurisdiction": "乙地",
-  "references": [
-    "application-A"
-  ],
-  "verified": false
+  "county": "甲县",
+  "application": "A-1",
+  "receipt": "R-1",
+  "status": "submitted"
 }

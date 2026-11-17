@@ -2,10 +2,9 @@
   "kind": "application",
   "id": "application-A",
   "revision": "v1",
-  "phase": "一期",
-  "jurisdiction": "丙地",
-  "references": [
-    "receipt-B"
-  ],
-  "attachment": "source-2.bin"
+  "county": "甲县",
+  "segment": "S-1",
+  "application": "A-1",
+  "status": "draft",
+  "source_revision": "conflicting-copy"
 }
