@@ -1,0 +1,11 @@
+{
+  "kind": "receipt",
+  "id": "receipt-B",
+  "revision": "v1",
+  "phase": "一期",
+  "jurisdiction": "乙地",
+  "references": [
+    "application-A"
+  ],
+  "verified": false
+}
